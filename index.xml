@@ -1,32 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Appdy</title>
-    <link>https://appdy.github.io/site/</link>
-    <description>Recent content on Appdy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://appdy.github.io/site/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Terms of Service</title>
-      <link>https://appdy.github.io/site/terms-of-service/</link>
-      <pubDate>Sun, 01 Nov 2020 21:55:01 +0000</pubDate>
-      
-      <guid>https://appdy.github.io/site/terms-of-service/</guid>
-      <description>OVERVIEW
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Digital Agency on Appdy</title><link>http://localhost:5000/</link><description>Recent content in Digital Agency on Appdy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://localhost:5000/index.xml" rel="self" type="application/rss+xml"/><item><title>Cookie Policy</title><link>http://localhost:5000/cookie-policy/</link><pubDate>Sat, 07 Nov 2020 15:59:07 +0000</pubDate><guid>http://localhost:5000/cookie-policy/</guid><description>Our website uses cookies. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart.
+They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services.</description></item><item><title>Terms of Service</title><link>http://localhost:5000/terms-of-service/</link><pubDate>Sun, 01 Nov 2020 21:55:01 +0000</pubDate><guid>http://localhost:5000/terms-of-service/</guid><description>OVERVIEW
 This website is operated by Appdy LTD. Throughout the site, the terms “we”, “us” and “our” refer to Appdy.net. Appdy.net offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
-By visiting our site and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink.</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://appdy.github.io/site/privacy-policy/</link>
-      <pubDate>Sun, 01 Nov 2020 19:59:07 +0000</pubDate>
-      
-      <guid>https://appdy.github.io/site/privacy-policy/</guid>
-      <description>Introduction  1.1 We are committed to safeguarding the privacy of our website Appdy.co.uk visitors and service users.
-1.2 This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.
-1.3 We use cookies on our website. Insofar as those cookies are not strictly necessary for the provision of our website and services, we will ask you to consent to our use of cookies when you first visit our website.</description>
-    </item>
-    
-  </channel>
-</rss>
+By visiting our site and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink.</description></item><item><title>Privacy Policy</title><link>http://localhost:5000/privacy-policy/</link><pubDate>Sun, 01 Nov 2020 19:59:07 +0000</pubDate><guid>http://localhost:5000/privacy-policy/</guid><description>This privacy policy has been compiled to better serve those who are concerned with how their “Personally identifiable information” (PII) is being used online. PI is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</description></item><item><title>About Us</title><link>http://localhost:5000/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:5000/about/</guid><description/></item><item><title>Business Proposals</title><link>http://localhost:5000/proposals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:5000/proposals/</guid><description>If you have any proposals, either service or product that you want to offer to us, please use the form below to contact us.
+Please don&amp;rsquo;t send multiple submissions about the same product or service. It will only leave a poor impression of you and your business. Single submission is enough for us to notice your business.
+If we find your offer interesting we will contact you shortly.
+Thank you.</description></item><item><title>Contact Us</title><link>http://localhost:5000/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:5000/contact/</guid><description/></item><item><title>Magento Developer</title><link>http://localhost:5000/career/magento-developer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:5000/career/magento-developer/</guid><description>We are looking for a talented Magento Developer to join our team.
+We don&amp;rsquo;t care how old are you, where you are from, what are your personal preferences, or what drives you. We want to cultivate a respective work place, where professional attitude matters the most. The only thing we care about is if you can take a job and deliver.
+You don&amp;rsquo;t have to have plenty of experience (but that helps).</description></item><item><title>Portfolio</title><link>http://localhost:5000/portfolio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:5000/portfolio/</guid><description/></item><item><title>React Native Dev</title><link>http://localhost:5000/career/react-native-developer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:5000/career/react-native-developer/</guid><description>We are looking for a talented React Native to join our team.
+We don&amp;rsquo;t care how old are you, where you are from, what are your personal preferences, or what drives you. We want to cultivate a respective work place, where professional attitude matters the most. The only thing we care about is if you can take a job and deliver.
+You don&amp;rsquo;t have to have plenty of experience (but that helps).</description></item><item><title>SEO Expert</title><link>http://localhost:5000/career/seo-expert/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:5000/career/seo-expert/</guid><description>We are looking for a talented SEO specialist to join our team.
+We don&amp;rsquo;t care how old are you, where you are from, what are your personal preferences, or what drives you. We want to cultivate a respective work place, where professional attitude matters the most. The only thing we care about is if you can take a job and deliver.
+You don&amp;rsquo;t have to have plenty of experience (but that helps).</description></item><item><title>Services</title><link>http://localhost:5000/service/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:5000/service/</guid><description/></item><item><title>Web Designer</title><link>http://localhost:5000/career/web-designer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:5000/career/web-designer/</guid><description>We are looking for a talented Web Designer to join our team.
+We don&amp;rsquo;t care how old are you, where you are from, what are your personal preferences, or what drives you. We want to cultivate a respective work place, where professional attitude matters the most. The only thing we care about is if you can take a job and deliver.
+You don&amp;rsquo;t have to have plenty of experience (but that helps).</description></item><item><title>Wordpress Developer</title><link>http://localhost:5000/career/web-developer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:5000/career/web-developer/</guid><description>We are looking for a talented Web Developer to join our team.
+We don&amp;rsquo;t care how old are you, where you are from, what are your personal preferences, or what drives you. We want to cultivate a respective workplace, where professional attitude matters the most. The only thing we care about is if you can take a job and deliver.
+You don&amp;rsquo;t have to have plenty of experience (but that helps).</description></item></channel></rss>
