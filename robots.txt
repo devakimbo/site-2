@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /tags/
+Disallow: /authors/
+Disallow: /404.html
+Disallow: /index.json
+Disallow: /*.yml$
+Disallow: /*.xml$
